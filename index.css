@@ -8,6 +8,8 @@ color: #00FF00;
 font-family: comic-sans-SMS, impact, comfortaa;
 }
 h2 {
-color: #FF5050;
+color: #FF0000;
 font-family: marcellus, michroma, pacifico;
 }
+span.exciting { color: #FF00FF; }
+span.fancy { color: #00FFFF; }
